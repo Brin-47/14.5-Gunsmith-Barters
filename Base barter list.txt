@@ -1,0 +1,36 @@
+Mechanic:
+
+lvl 1  -  Hybrid mount  -  1 screw nuts
+lvl 1  -  P226 elite slide  -  1  yellow plier
+lvl 1  -  1911 rail  -  1  USB Adapter
+lvl 2  -  M1A promag chassis  -  1  Powerbank
+Lvl 1  -  P226 Elite grip  -  1  strike
+lvl 1  -  mlok 2.5  -  1  AA batt
+lvl 1  -  mlok 4.1  -  1  D batt
+
+Prapor:
+
+lvl 3  -  SVD PG adapt  -  1  Shampoo
+lvl 3  -  SVD cut DC  -  1  PCR
+lvl 3  -  SVD SAG chassis  -  1  MCT
+
+
+PK:
+
+lvl 3  -  FF CRD  -  1  WD 40 400ml
+lvl 3  -  FF Brake  -  1  WD 40 100ml
+lvl 2  -  5.56 ak mag  -  1  Alkaline cleaner
+lvl 2  -  416 11"  -  1  corro hose
+lvl 2  -  416 9" rail  -  1  propane
+
+
+skier
+
+lvl 2  -  vector mk5 rail  -  1  horse
+lvl 2  -  vector nfa  -  1 DVD drive
+lvl 2  -  vector 9mm 6"  -  1  Chainlet
+
+Jaeger:
+
+lvl 3  -  REAP-IR eyecup  -  1  crick lighter
+Lvl 4  -  M700 MRS rifle (preset might need added)  -  1 Hand drill + 1 surv light
